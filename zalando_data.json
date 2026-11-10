@@ -1,0 +1,52 @@
+[
+  {
+    "db_source": "1770988297087",
+    "timestamp": "2026-02-13",
+    "domain": "zalando.de",
+    "country_code": "de",
+    "url": "https://zalando.de/only-petite-onlsascha-sherpa-jacket-klassischer-mantel-black-op421u047-q11.html",
+    "sku": "OP421U047-Q11",
+    "condition": "NewCondition",
+    "gender": null
+  },
+  {
+    "db_source": "1770988297087",
+    "timestamp": "2026-02-13",
+    "domain": "zalando.de",
+    "country_code": "de",
+    "url": "https://zalando.de/aunts-and-uncles-umhaenge-sendai-umhaengetasche-rooibos-auc54h001-h11.html",
+    "sku": "AUC54H001-H11",
+    "condition": "NewCondition",
+    "gender": null
+  },
+  {
+    "db_source": "1770988297087",
+    "timestamp": "2026-02-13",
+    "domain": "www.zalando.co.uk",
+    "country_code": "uk",
+    "url": "https://www.zalando.co.uk/levis-ribcage-straight-ankle-straight-leg-jeans-middle-road-le221n082-k13.html?96c08e6c50=5b45...",
+    "sku": "LE221N082-K13",
+    "condition": "NewCondition",
+    "gender": null
+  },
+  {
+    "db_source": "1770988297087",
+    "timestamp": "2026-02-13",
+    "domain": "www.zalando.de",
+    "country_code": "de",
+    "url": "https://www.zalando.de/liebeskind-berlin-liebeskind-uhr-rose-gold-coloured-li351m038-f12.html?_rfl=en",
+    "sku": "LI351M038-F12",
+    "condition": "NewCondition",
+    "gender": null
+  },
+  {
+    "db_source": "1770988297087",
+    "timestamp": "2026-02-13",
+    "domain": "www.zalando.de",
+    "country_code": "de",
+    "url": "https://www.zalando.de/the-chesterfield-brand-aktentasche-brown-thl54h00l-o11.html?0b4e095708=975d468751&91a76039e2=2e73...",
+    "sku": "THL54H00L-O11",
+    "condition": "NewCondition",
+    "gender": null
+  }
+]
